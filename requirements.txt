@@ -34,6 +34,7 @@ lxml==6.0.2
 MarkupSafe==3.0.3
 modelscope==1.33.0
 more-itertools==10.8.0
+ngrok==1.4.0
 numpy==2.2.6
 openai==2.14.0
 opencv-contrib-python==4.10.0.84
@@ -80,4 +81,5 @@ typing_extensions==4.15.0
 tzdata==2025.3
 ujson==5.11.0
 urllib3==2.6.2
+uvicorn==0.40.0
 wcwidth==0.2.14
